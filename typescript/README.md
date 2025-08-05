@@ -8,4 +8,4 @@ Trivia kata in typescript
     Any test source matching the pattern `*.test.ts` below `tests/` will be executed.
 
 
-Vu par Jonathan
+Vu par Jonathan & Johann
