@@ -1,0 +1,1 @@
+- [ ] Corriger le bug du joueur Chet qui est en NAN
