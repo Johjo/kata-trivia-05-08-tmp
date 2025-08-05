@@ -1,2 +1,3 @@
 - [ ] Corriger le bug du joueur Chet qui est en NAN
-	- [ ] Vérifier la valeur de this.currentPlayer
+	- [x] Vérifier la valeur de this.currentPlayer
+	- [ ] S'assurer qu'on a pas casser le système
